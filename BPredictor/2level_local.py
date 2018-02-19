@@ -1,10 +1,9 @@
 """
-# Name:			Pratik kulkarni
-# ID:			801020567
-# Assignment: 	Write a program that reads in the trace and simulates
-#				different branch prediction schemes.
-# Course:		Computer Architecture
-# Homework:		HW3
+
+# File name: 2level_local.py
+# Author:	Pratik kulkarni (pratikkulkarni228@gmail.com)
+# Python version: 2.7
+
 """
 
 """
